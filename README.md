@@ -1,5 +1,7 @@
 # Motion-Controlled-Google-Chrome-Offline-Dinosaur-using-Python-and-OpenCV
 
+Using the Webcam of your System we can control Google Chrome Dinosaur Game that shows up in offline Mode. 
+
 I made this project for fun. After learning OpenCV Python I thoguth making a fun interesting Project out of it. Here we can control Google Chrome Offline Dinosaur game using OpenCV. It processes the image and sends the signal to jump or not.
 
 Currently I am working on applying Reinforment Learning so that it can learn by itself how to cross the obstacles by itself without intervention of external agents.
